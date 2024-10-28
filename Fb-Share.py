@@ -6,5 +6,6 @@
   "IJAF-S3Y1-86FV-1221":{'name':'Mahmoud Hamza','end_date':'11/16/2024'},
   "IJAF-S3Y1-5644-1221":{'name':'Ahmed A. Elsamalosy','end_date':'11/16/2024'},
   "IJAF-S3Y1-5574-HDET":{'name':'Zain Abdelrahman','end_date':'11/16/2024'},
-  "IJAF-S3Y1-5574-5687":{'name':'Deyaa Safwat','end_date':'11/16/2024'}
+  "IJAF-S3Y1-5574-5687":{'name':'Deyaa Safwat','end_date':'11/16/2024'},
+  "IJAF-4767-5574-JDYJ":{'name':'Mustafa Omar','end_date':'11/16/2024'}
 }
