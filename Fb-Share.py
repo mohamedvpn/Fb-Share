@@ -9,5 +9,6 @@
   "IJAF-S3Y1-5574-5687":{'name':'Deyaa Safwat','end_date':'11/16/2024'},
   "IJAF-4767-5574-JDYJ":{'name':'Mustafa Omar','end_date':'11/16/2024'},
   "IJAF-IJAF-IJAF-JDYJ":{'name':'امجد سامي','end_date':'11/16/2024'},
-  "FDGR-IJAF-IJAF-DB43":{'name':'M Y. Hassan','end_date':'11/16/2024'}
+  "FDGR-IJAF-IJAF-DB43":{'name':'M Y. Hassan','end_date':'11/16/2024'},
+  "6eGR-IJAF-IJAF-6543":{'name':'محمد راضى','end_date':'11/16/2024'}
 }
