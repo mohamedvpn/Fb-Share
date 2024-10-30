@@ -29,5 +29,7 @@
   "08k9-GSHR-6464-757s":{'name':'Zoro Ahmed','end_date':'11/16/2024'},
   "4455-GSHy-6464-7574":{'name':'Ammar Ahmed','end_date':'11/16/2024'},
   "4455-GSHy-7777-7567":{'name':'Mohamed Ragab','end_date':'11/16/2024'},
-  "4455-TTTT-7777-GDHT":{'name':'Ayman Abdel','end_date':'11/16/2024'}
+  "4455-TTTT-7777-GDHT":{'name':'Ayman Abdel','end_date':'11/16/2024'},
+  "4455-7897-4444-GDHT1":{'name':'WaeL Mohamed','end_date':'11/16/2024'},
+  "000-7897-4444-5436":{'name':'عبدالله','end_date':'11/16/2024'}
 }
