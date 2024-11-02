@@ -46,5 +46,6 @@
   "gsgsg-dsgss-hgjg-hgf3":{'name':'Ahmed Badwy','end_date':'11/16/2024'},
   "gsgsg-dsgss-hgjg-hgf4":{'name':'Omar El-Masry','end_date':'11/16/2024'},
   "gsgsg-dsgss-hgjg-hgf5":{'name':'Mohamed Ashraf','end_date':'11/16/2024'},
-  "gsgsg-dsgss-hgjg-hgf6":{'name':'Mahmoud Khodier','end_date':'11/16/2024'}
+  "gsgsg-dsgss-hgjg-hgf6":{'name':'Mahmoud Khodier','end_date':'11/16/2024'},
+  "FSFS-JFBD-JFVD-JDVT":{'name':'Ahmed Abdullah','end_date':'11/16/2024'
 }
