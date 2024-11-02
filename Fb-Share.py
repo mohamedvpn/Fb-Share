@@ -48,5 +48,8 @@
   "gsgsg-dsgss-hgjg-hgf5":{'name':'Mohamed Ashraf','end_date':'11/16/2024'},
   "gsgsg-dsgss-hgjg-hgf6":{'name':'Mahmoud Khodier','end_date':'11/16/2024'},
   "FSFS-JFBD-JFVD-JDVT":{'name':'Ahmed Abdullah','end_date':'11/16/2024'},
-  "FSFS-JFBD-JFVD-TYTYTY":{'name':'Ahmed Ali Mohamed','end_date':'11/16/2024'}
+  "FSFS-JFBD-JFVD-TYTYTY":{'name':'Ahmed Ali Mohamed','end_date':'11/16/2024'},
+  "FSFS-JFBD-JFVD-QQQQT":{'name':'Islam Salama','end_date':'11/16/2024'},
+  "FSFS-JFBD-JFVD-QQQYU":{'name':'Ahmed Ali Mohamed','end_date':'11/16/2024'},
+  "FSFS-JFBD-JFVD-QQQQFJ":{'name':'Ahmed Nasser','end_date':'11/16/2024'}
 }
