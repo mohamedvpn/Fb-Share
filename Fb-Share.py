@@ -102,5 +102,5 @@
   "ZXCV-ASDF-YUIO-KJHGF": {'name': '', 'end_date': '11/16/2024'},
   "QPLM-WERT-YUIO-ASDFG": {'name': '', 'end_date': '11/16/2024'},
   "ASDF-UIOP-HJKL-WERTY": {'name': '', 'end_date': '11/16/2024'},
-  "ZXCV-BVFD-WERT-YUIOK": {'name': '', 'end_date': '11/16/2024'},
+  "ZXCV-BVFD-WERT-YUIOK": {'name': '', 'end_date': '11/16/2024'}
 }
