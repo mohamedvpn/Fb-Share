@@ -57,7 +57,7 @@
   "OIRE-PKJR-ALMB-QQMZS": {'name': 'Shazly Mohamed', 'end_date': '11/16/2024'},
   "TRER-LKDP-HGJD-QWETY": {'name': 'Ahmed Galal', 'end_date': '11/16/2024'},
   "YUIM-LDME-TREE-WQOPY": {'name': 'Abeer Abobkr', 'end_date': '11/16/2024'},
-  "NBRE-KJSD-PLMN-ZXCVB": {'name': '', 'end_date': '11/16/2024'},
+  "NBRE-KJSD-PLMN-ZXCVB": {'name': 'Yousef Mahmoud', 'end_date': '11/16/2024'},
   "MIKE-WQOP-RTRL-BNMGH": {'name': '', 'end_date': '11/16/2024'},
   "ZXYU-LKJD-NVFR-OPQSD": {'name': '', 'end_date': '11/16/2024'},
   "QWER-ASDF-ZXCV-UIOPL": {'name': '', 'end_date': '11/16/2024'},
