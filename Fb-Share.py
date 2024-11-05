@@ -70,7 +70,7 @@
   "OIUQ-WERT-YUIO-NBVCX": {'name': 'Abdelhady Elsyad', 'end_date': '11/16/2024'},
   "ZXCV-PLMN-ERTY-WQLOP": {'name': 'Ahmed Makram', 'end_date': '11/16/2024'},
   "ASDF-BNVC-ZXQT-WERTY": {'name': 'Salah Mahmoud', 'end_date': '11/16/2024'},
-  "WERT-YUIO-KJHG-NBVCD": {'name': '', 'end_date': '11/16/2024'},
+  "WERT-YUIO-KJHG-NBVCD": {'name': 'Aref M. Z. Mahmoud', 'end_date': '11/16/2024'},
   "BNVC-ASDF-QWER-UIOKL": {'name': '', 'end_date': '11/16/2024'},
   "LKJD-HGFD-ZXCV-WEROP": {'name': '', 'end_date': '11/16/2024'},
   "HJKL-QWER-ASDF-PLMNB": {'name': '', 'end_date': '11/16/2024'},
