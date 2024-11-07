@@ -84,7 +84,7 @@
   "QASD-BVCX-PLMN-ZXWET": {'name': 'AmJad MaJdy', 'end_date': '11/16/2024'},
   "ZXCV-PLKN-MNHG-ASDFT": {'name': 'Ahmed Ragheb', 'end_date': '11/16/2024'},
   "PLMN-QWER-ASDF-BVCXT": {'name': 'Karim ELrfaie', 'end_date': '11/16/2024'},
-  "ASDF-UIOP-LKJN-QWETG": {'name': '', 'end_date': '11/16/2024'},
+  "ASDF-UIOP-LKJN-QWETG": {'name': 'Atef Awad', 'end_date': '11/16/2024'},
   "ZXCV-WERT-ASDF-YUIOP": {'name': '', 'end_date': '11/16/2024'},
   "QWET-UIOP-KJHG-BVCXZ": {'name': '', 'end_date': '11/16/2024'},
   "ZXRT-BVCH-PLMJ-ASDFG": {'name': '', 'end_date': '11/16/2024'},
