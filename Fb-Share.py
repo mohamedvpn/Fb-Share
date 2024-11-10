@@ -99,6 +99,6 @@
   "LKJN-WERT-ASDF-QPLMN": {'name': 'محمود مصطفى', 'end_date': '11/16/2024'},
   "ZXCV-ASDF-YUIO-KJHGF": {'name': 'Mohamed Samir', 'end_date': '11/16/2024'},
   "QPLM-WERT-YUIO-ASDFG": {'name': 'Tarkhawy', 'end_date': '11/16/2024'},
-  "ASDF-UIOP-HJKL-WERTY": {'name': '', 'end_date': '11/16/2024'},
-  "ZXCV-BVFD-WERT-YUIOK": {'name': '', 'end_date': '11/16/2024'}
+  "ASDF-UIOP-HJKL-WERTY": {'name': 'Hossam Ahmed', 'end_date': '11/16/2024'},
+  "ZXCV-BVFD-WERT-YUIOK": {'name': 'Acc-Islam', 'end_date': '11/16/2024'}
 }
