@@ -1,6 +1,7 @@
 {
   "11111-11111": {'name': 'Mo', 'end_date': '11/16/2024'},
   "Hany": {'name': 'أحلي هاني فالكوكب', 'end_date': '11/16/2024'},
+  "Farouk": {'name': 'أي خدمة', 'end_date': '11/16/2024'},
   "6J5J89-DGG4R-3ZD4-YTPL68": {'name': 'شيماء', 'end_date': '11/16/2024'},
   "6J5J8-DGG4R-3ZD4-YTPL3": {'name': 'Osama', 'end_date': '11/16/2024'},
   "Talaat": {'name': 'Mahmoud Talaat', 'end_date': '11/16/2024'},
